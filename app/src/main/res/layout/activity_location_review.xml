@@ -1,0 +1,52 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ignas.fime.LocationReviewActivity">
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true" />
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:textSize="25dp"
+        android:background="@color/transparent_white"
+        android:id="@+id/locationMessageTextView"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/found_location"
+        android:id="@+id/button"
+        android:onClick="deleteNotification"
+        android:layout_above="@+id/locationMessageTextView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:id="@+id/timeReviewField"
+        android:layout_height="55dp"
+        android:layout_width="125dp"
+        android:padding="5dp"
+        android:inputType="text"
+        android:orderInCategory="100"
+        android:layout_weight="4.95"
+        android:editable="false"
+        android:textSize="35dp"
+        android:textColor="@color/purple"
+        android:onClick="showTimePicker"
+        android:layout_above="@+id/locationMessageTextView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+    </TextView>
+
+</RelativeLayout>

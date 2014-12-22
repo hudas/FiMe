@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FiMe</string>
+    <string name="app_title">FiMe!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_username">Username</string>
+    <string name="text_email">Email address</string>
+    <string name="text_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="button_share">Share</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_basic_meniu">BasicMeniuActivity</string>
+    <string name="heading_activity_basic_meniu">Shared Places</string>
+    <string name="no_notifications_message">Nobody shared location with you :(</string>
+    <string name="no_notifications_action">Share it Yourself!</string>
+    <string name="title_activity_map_sharing">MapSharingActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="text_password_confirmation">Confirm Password</string>
+    <string name="title_activity_sharing">SharingActivity</string>
+    <string name="title_activity_messaging">MessagingActivity</string>
+    <string name="login_data_notice">Check Your Login details!</string>
+    <string name="login_connection_notice">Check Your Internet Connection!</string>
+    <string name="registration_success">Registration was Succesful!</string>
+    <string name="add_person">Find Friend!</string>
+    <string name="find_friends">Find new Friend!</string>
+    <string name="logOut">LogOut</string>
+    <string name="title_activity_friend_search">Find new Friends!</string>
+    <string name="friends_list">Friends List</string>
+    <string name="title_activity_friend_list">FriendListActivity</string>
+    <string name="share_place_hint">Enter your Message here</string>
+    <string name="title_activity_activity_place_review">ActivityPlaceReview</string>
+    <string name="title_activity_location_review">LocationReviewActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="location_message">Message</string>
+    <string name="found_location">Found It!</string>
+    <string name="friend_request_header">Friend Request</string>
+    <string name="shared_location_header">Shared Location</string>
+
+</resources>
