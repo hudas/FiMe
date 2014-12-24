@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ignas.fime.BasicMeniuActivity" >
+
+    <item android:id="@+id/logOut"
+        android:icon="@drawable/ic_action_not_secure"
+        android:title="@string/logOut"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/add_person"
+            android:icon="@drawable/ic_action_add_person"
+            android:title="@string/add_person"
+            app:showAsAction="always"/>
+
+    <item android:id="@+id/friendsList"
+        android:icon="@drawable/ic_action_group"
+        android:title="@string/friends_list"
+        app:showAsAction="always"/>
+
+</menu>
+<!-- From: file:/D:/Android/App/FiMe/app/src/main/res/menu/basic_meniu.xml -->

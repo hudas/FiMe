@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\Android\App\FiMe\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.3-24cbf18207847826cc185b0520d3bcb12f08faae.jar"
+        jar="D:\Android\App\FiMe\app\libs\bolts-android-1.1.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e61e3dfc57eaa5c97f9e7061db5608fc7d02d39e"/>
+    <item
+        dex="D:\Android\App\FiMe\app\build\intermediates\pre-dexed\debug\classes-099fed434c2783b60ca5160518e448a98013460f.jar"
+        jar="D:\Android\App\FiMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.11\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6"/>
+    <item
+        dex="D:\Android\App\FiMe\app\build\intermediates\pre-dexed\debug\Parse-1.7.1-2ba4f110c4bcf277d18003affcfdd21ed76ad2a8.jar"
+        jar="D:\Android\App\FiMe\app\libs\Parse-1.7.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="87c45f9f66da531a65f065ee32f603c7e6db1528"/>
+    <item
+        dex="D:\Android\App\FiMe\app\build\intermediates\pre-dexed\debug\sinch-android-rtc-3.3.7-cb8b23e883fad6fc33bbaa22de862895d312ea9f.jar"
+        jar="D:\Android\App\FiMe\app\libs\sinch-android-rtc-3.3.7.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27ddaa2afd08dee200abdeaf77442cf8538f3b56"/>
+    <item
+        dex="D:\Android\App\FiMe\app\build\intermediates\pre-dexed\debug\classes-71f62a6d1dd65967821520445545aa4c7999c559.jar"
+        jar="D:\Android\App\FiMe\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="D:\Android\App\FiMe\app\build\intermediates\pre-dexed\debug\classes-b08b85de0947d9bbb74e64b26934ec75095181de.jar"
+        jar="D:\Android\App\FiMe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136"/>
+    <item
+        dex="D:\Android\App\FiMe\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-29611e25974a152189c8218378e2d6703007c5e5.jar"
+        jar="D:\Android\App\FiMe\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="D:\Android\App\FiMe\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-12c1a64ad23e0be888f0dfa6119e65a210bf4620.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+
+</pre-dex-items>
