@@ -7,14 +7,10 @@ add meeting time and specify message for your friends.
 
 FiMe Android Application
 
-![loading_screenshot](https://cloud.githubusercontent.com/assets/6286163/5636953/8e10b72e-95ff-11e4-8745-4d7bee6b2a04.png)
-![main_screenshot](https://cloud.githubusercontent.com/assets/6286163/5636952/8e103326-95ff-11e4-8d72-c74c940b185b.png)
-![shared_screen](https://cloud.githubusercontent.com/assets/6286163/5636951/8e102b56-95ff-11e4-8c36-dd46c7018551.png)
-![sharing_screen](https://cloud.githubusercontent.com/assets/6286163/5636954/8e1162e6-95ff-11e4-93b6-e34a5a14d943.png)
-
-
-
-
+![loading_screenshot50](https://cloud.githubusercontent.com/assets/6286163/5637096/c3fc9168-9600-11e4-94f3-b00bba8cf8da.png)
+![main_screenshot50](https://cloud.githubusercontent.com/assets/6286163/5637091/b48a0c92-9600-11e4-83e7-e0ac7d3c9aaf.png)
+![sharing_screen50](https://cloud.githubusercontent.com/assets/6286163/5637087/adf63de2-9600-11e4-9d0a-92105fa2571a.png)
+![shared_screen50](https://cloud.githubusercontent.com/assets/6286163/5637089/b183fb8e-9600-11e4-9c6d-179184b79d39.png)
 
 
 
