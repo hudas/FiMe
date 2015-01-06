@@ -6,3 +6,4 @@ Application allows you to select desired location on map, or use your current co
 add meeting time and specify message for your friends.
 
 FiMe Android Application
+![alt tag](https://raw.github.com/hudas/FiMe/blob/master/screenshots/Loading_screenshot.png)
